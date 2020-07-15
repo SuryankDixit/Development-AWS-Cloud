@@ -1,0 +1,21 @@
+{
+  "name": "centigram-restapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suryank Dixit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "sequelize": "^6.3.3",
+    "sequelize-typescript": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/sequelize": "^4.28.9",
+    "ts-node-dev": "^1.0.0-pre.51"
+  }
+}
